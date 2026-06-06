@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was completed as part of Week 1 of the DecodeLab Data Science Internship. The objective was to explore, clean, preprocess, and prepare the Titanic dataset for machine learning applications.
+This project was completed as part of Week 1 of the Beeskilled Data Science Internship. The objective was to explore, clean, preprocess, and prepare the Titanic dataset for machine learning applications.
 
 ## Objectives
 
@@ -52,7 +52,7 @@ The project uses the Titanic Dataset, which contains information about passenger
 ## Repository Structure
 
 ```
-DecodeLab-DataScience/
+Beeskilled_Workspace/
 │
 ├── Week1_Titanic_Data_Cleaning.ipynb
 ├── Titanic-Dataset.csv
@@ -73,4 +73,4 @@ Through this project, I gained hands-on experience in:
 
 **Divyanshi Sen**  
 B.Tech (AI) Student  
-MITS Gwalior
+
